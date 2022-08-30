@@ -5,7 +5,7 @@ return [
     'admin_email' => env('ADMIN_EMAIL', 'admin@example.com'),
 
     '*' => [
-        'max_page' => '904625697166532776746648320380374280100293470930272690489102837043110636675',
+        'max_page' => '1 ',
     ],
 
     'btc' => [
